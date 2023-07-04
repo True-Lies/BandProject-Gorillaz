@@ -1,0 +1,67 @@
+
+
+body{
+	margin: 40px 25px 90px 25px;
+	background-color: #f2f2f2;
+	font-family: 'Sans-serif';
+}
+
+#logo-image {
+    width:400px;
+    height:150px;
+    position: relative;
+    margin-left: 24px;
+    margin-top: 22px;
+}
+
+h1{
+	font-family: 'Brush Script MT';
+	color: #262626;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+
+nav {
+    float: right;  
+    margin-top: 65px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+ul li {
+    display: inline-block;   
+}
+
+ul li a {
+    text-decoration: none;
+    padding: 8px 8px;
+    font-family: 'Brush Script MT';
+    font-size: 28px;
+}
+
+
+
+.song-name {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.file-pos {
+
+    margin-left: 25px;
+}
+
+
+.video-name {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.video-pos {
+
+    margin-left: 50px;
+}
